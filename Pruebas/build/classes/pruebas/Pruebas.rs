@@ -1,4 +1,0 @@
-Supermercado
-Cajera
-Producto
-Cliente
